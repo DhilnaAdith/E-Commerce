@@ -1,0 +1,102 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "productName": "Multicolor Shirt",
+      "CategoryId": "2",
+      "Description": "Color Block men Multicolor Shirt ",
+      "Price": "700",
+      "productmg": "https://i.postimg.cc/FKjQbSzN/men-shirt.webp",
+      "rating": "4.3",
+      "warranty": 2
+    },
+    {
+      "id": "2",
+      "productName": "Multicolor Shirt",
+      "CategoryId": "2",
+      "Description": "Color Block Women Multicolor Shirt ",
+      "Price": "1000",
+      "productmg": "https://i.postimg.cc/Dw8kCsFJ/women-shirt.jpg",
+      "rating": "4.3",
+      "warranty": 2
+    },
+    {
+      "id": "3",
+      "productName": "women dress",
+      "CategoryId": "2",
+      "Description": "latest women dress ",
+      "Price": "700",
+      "Is available": "true",
+      "productmg": "https://i.postimg.cc/kgZ0tZxB/women-dress.webp",
+      "rating": "4.3",
+      "review": "450",
+      "vendor_name": "chennai Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "4",
+      "productName": "women kurtha",
+      "CategoryId": "2",
+      "Description": "casual kurtha",
+      "Price": "750",
+      "Is available": "true",
+      "productmg": "https://i.postimg.cc/x1vT2hcD/women-kurtha.webp",
+      "rating": "3.3",
+      "review": "400",
+      "vendor_name": "malabar Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "5",
+      "productName": "women frock",
+      "CategoryId": "2",
+      "Description": "casual frock",
+      "Price": "850",
+      "Is available": "true",
+      "productmg": "https://i.postimg.cc/Bv7sg0j3/women-frock.jpg",
+      "rating": "4.3",
+      "review": "400",
+      "vendor_name": "kozhikode Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "6",
+      "productName": "Men T-shirt",
+      "CategoryId": "2",
+      "Description": "T-Shirt",
+      "Price": "750",
+      "Is available": "true",
+      "productmg": "https://i.postimg.cc/tRkML5XS/men-tshirt2.webp",
+      "rating": "3.3",
+      "review": "400",
+      "vendor_name": "kochi Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "7",
+      "productName": "Men Shirt",
+      "CategoryId": "2",
+      "Description": "Normal Shirt",
+      "Price": "700",
+      "Is available": "true",
+      "productmg": "https://i.postimg.cc/3NcmYrCn/men-shirt2.webp",
+      "rating": "3",
+      "review": "400",
+      "vendor_name": "kochi Textiles",
+      "warranty": 1
+    },
+    {
+      "id": "iUj7fl4",
+      "productName": "",
+      "CategoryId": "",
+      "Description": "",
+      "Price": "",
+      "Is_available": "",
+      "productmg": "",
+      "rating": "",
+      "review": "",
+      "vendor_name": "",
+      "warranty": ""
+    }
+  ]
+}
